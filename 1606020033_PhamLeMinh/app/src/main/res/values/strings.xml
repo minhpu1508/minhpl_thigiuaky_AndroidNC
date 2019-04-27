@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">1606020033_PhamLeMinh</string>
+    <string name="txtName">Account Login</string>
+    <string name="txtuser">User Name</string>
+    <string name="txtpassword">Password</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="id">ID</string>
+    <string name="name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="producer">Producer</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnNew">New</string>
+    <string name="btnEdit">Edit</string>
+
+</resources>
